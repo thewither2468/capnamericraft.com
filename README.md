@@ -1,2 +1,2 @@
-# Capnamericraft's Website
+# CapnAmericraft's Website
 this is my Website

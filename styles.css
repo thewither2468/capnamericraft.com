@@ -1,0 +1,15 @@
+body {
+  background-color: #3cc47c;
+}
+
+
+
+.color-paragraph {
+  color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  font: "Trebuchet MS"
+}
+.bold-underline {
+  font-weight: bold;
+  text-decoration: underline;
+}
